@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anubhavlohani
 - 👀 I’m interested in machine learning.
 - 🌱 I’m currently learning machine learning and web development.
-- 💞️ I’m looking to collaborate on anything really.
+- 💞️ I’m looking to collaborate on machine learning, data science or web development projects.
 - 📫 How to reach me on Twitter @anubhavlohani
 
 <!---
